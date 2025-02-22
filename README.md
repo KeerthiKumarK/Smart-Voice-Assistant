@@ -1,7 +1,8 @@
 # Smart Voice Assistant
 
-**Demonstration Video (5 min):** [Watch Here](https://drive.google.com/file/d/1ryv6fc4tfEThFvpKU6Pp-U-tLoTvA-LN/view?usp=sharing)
-**Demonstration Video (8:45):** [Watch Here](https://drive.google.com/file/d/1aL0-MNYlOddILhxCeE50Sf-QZIz7UDky/view?usp=sharing)
+**Demonstration Video (5 min):** [Watch Here](https://drive.google.com/file/d/1ryv6fc4tfEThFvpKU6Pp-U-tLoTvA-LN/view?usp=sharing).
+
+**Demonstration Video (8:45):** [Watch Here](https://drive.google.com/file/d/1aL0-MNYlOddILhxCeE50Sf-QZIz7UDky/view?usp=sharing).
 
 ## Description
 Smart Voice Assistant is a mobile-friendly web application designed to help professionals capture action items and important points during meetings. The app records voice conversations, transcribes them into text, and extracts actionable information such as tasks, calendar events, and meeting notes.
