@@ -15,11 +15,11 @@ body {
     text-shadow: 0 0 8px #f8f7f4, 0 0 50px #ffffff, 0 0 30px #f8f8f5;
     transition: 0.3s ease-in-out;
   }
-  
+  */
   /* Multicolor Hover Effect */
   h1:hover {
     animation: glowAnimation 1.5s infinite alternate;
-  } */
+  }
   
   @keyframes glowAnimation {
     0% {
