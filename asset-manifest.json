@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Smart-Voice-Assistant/static/css/main.0cd5ef8a.css",
+    "main.js": "/Smart-Voice-Assistant/static/js/main.8974d32f.js",
+    "index.html": "/Smart-Voice-Assistant/index.html",
+    "main.0cd5ef8a.css.map": "/Smart-Voice-Assistant/static/css/main.0cd5ef8a.css.map",
+    "main.8974d32f.js.map": "/Smart-Voice-Assistant/static/js/main.8974d32f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0cd5ef8a.css",
+    "static/js/main.8974d32f.js"
+  ]
+}
