@@ -11,7 +11,7 @@ const ActionsBox = ({ actions, setActions, transcription, extractActions }) => {
         onChange={(e) => setActions(e.target.value)}
       />
       <button onClick={() => setActions(extractActions(transcription))}>
-        📌 Extract 
+        📌 Extract Actions
       </button>
     </div>
   );

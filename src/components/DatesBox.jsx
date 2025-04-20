@@ -11,7 +11,7 @@ const DatesBox = ({ dates, setDates, transcription, extractDates }) => {
         onChange={(e) => setDates(e.target.value)}
       />
       <button onClick={() => setDates(extractDates(transcription))}>
-        📅 Extract 
+        📅 Extract Dates
       </button>
     </div>
   );
