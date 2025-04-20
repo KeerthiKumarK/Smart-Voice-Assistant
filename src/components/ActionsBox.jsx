@@ -3,7 +3,7 @@ import React from "react";
 const ActionsBox = ({ actions, setActions, transcription, extractActions }) => {
   return (
     <div className="box">
-      <h2>Extracted Actions</h2>
+      <h2>Extracted </h2>
       <textarea
         id="actions"
         placeholder="Extracted actions will appear here..."
