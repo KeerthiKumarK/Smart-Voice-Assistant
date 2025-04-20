@@ -113,7 +113,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     color: white;
-    background: linear-gradient(45deg, #8c00ff, #ff8c00);
+    /* background: linear-gradient(45deg, #8c00ff, #ff8c00); */
     border-radius: 12px;
     box-shadow: 0 0 20px #ff0000;
 }
